@@ -31,7 +31,7 @@ Here's how to get one:
 
 1. :ref:`enable-api-access` if you haven't done it yet.
 
-2. Go to "APIs & Services > Credentials" and choose "Create credentials > Service account key".
+2. Go to "APIs & Services > Credentials" and choose "Create credentials > Service account".
 
 3. Fill out the form
 
